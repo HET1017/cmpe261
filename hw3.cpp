@@ -249,7 +249,4 @@ int main()
 
 }//main
 
-//hocam ödevde bilgisayardan almayı ve işlemeyi doğru bir şekiilde yapamadım 
-//matchsticks sayısı 0 olmadan oyunu anlamadığım bir şekilde bitiriyor bunu bir türlü çözemedim
-//ve elimden geleni yapmaya çalıştım ve tam doğru olmayan bir şekilde gönderdim kusura bakmayın. 
-//yani 1 puana bile çok ihtiyacım var o yüzden maalesef yapabildiğim kadarıyla attım tekrardan kusura bakmayın...
+
